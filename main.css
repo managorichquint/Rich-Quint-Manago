@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin-top: 0;
+}
+
+body{
+    height: 100vh;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black
+    
+}
+
+.container{
+    display: left;
+    align-items: center;
+    justify-content: right;
+}
